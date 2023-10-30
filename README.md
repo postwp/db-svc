@@ -1,2 +1,2 @@
 # db-svc
-PostWP database service
+Database service
